@@ -1,0 +1,44 @@
+.tooltip {
+    display:none;
+    background-color: #D1D1D1;
+    font-size:15px;
+    font-style:italic;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    width:160px;
+    padding:25px;
+    color:#000000;
+}
+
+/*for title */
+.testimonials-title 
+{
+    color: #333333;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif !important;
+    font-weight:bold;
+    margin: 0 0 2px;
+    text-transform: uppercase;
+}
+
+/*company: */
+.testimonials-company 
+{
+    color: #666666;
+    font-size: 14px;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif !important;
+    margin: 0px;
+}
+
+/*image: */
+.theme-left
+{
+	font-style:italic;		
+}
+
+.theme-left img 
+{
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 2px #999999;
+    margin: 0 0px 30px;
+    padding: 5px;
+}
+  
