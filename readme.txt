@@ -1,10 +1,10 @@
 === WP Elegant Testimonial ===
-Contributors: WPREVIEWPRODUCT
+Contributors: wpreviewproduct
 Donate link: http://wpreviewproduct.com/
-Tags: wordpress testimonial, wordpress testimonial plugin, wp testimonial
+Tags: wordpress testimonial, wordpress testimonial plugin, wp testimonial plugin, add testimonial in wordpress, wordpress customer testimonial
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv2 or later
 
 An easy to use Testimonial Plugin for WordPress.
@@ -28,8 +28,10 @@ Upload the plugin to the plugins directory via WordPress Plugin Uploader (Plugin
 
 == Changelog ==
 
-=1.1=
+=1.1.0=
 * First release
+=1.1.1=
+* Fixed some minor bugs
 
 == Frequently Asked Questions ==
 
@@ -38,7 +40,8 @@ Yes
 
 == Screenshots ==
 
-None
+1. A sample testimonial on a WordPress page.
+2. Full Description is displayed when a user hovers over the image.
 
 == Upgrade Notice ==
 
