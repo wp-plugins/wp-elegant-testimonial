@@ -21,13 +21,6 @@ function wp_elegant_testimonial_display_menu()
 </div>
 </div>
 
-<div class="postbox">
-<h3><label for="ad_title">People who liked this also liked..</label></h3>
-<div class="inside">
-<p><a href="http://nanacast.com/vp/97647/279380/" target="_blank"><img border=0 src="http://joltaffiliates.com/op/banner-200x125n.gif"></a></p>
-</div>
-</div>
-
 </div></div>
 </div>
 <?php
