@@ -1,10 +1,10 @@
 === WP Elegant Testimonial ===
 Contributors: wpreviewproduct
-Donate link: http://wphowto.net/
-Tags: wordpress testimonial, wordpress testimonial plugin, wp testimonial plugin, add testimonial in wordpress, wordpress customer testimonial, testimonial, testimonial widget, testimonials, testimonials widget, testimony
+Donate link: http://wphowto.net/?p=295
+Tags: testimonial, widget, testimonials, testimony, review, client, customer, recommendation, quotations, quote, quotes, reference, feedback, shortcode, plugin, comments, Post, admin, posts, sidebar, images, page, image, links
 Requires at least: 3.4
-Tested up to: 3.5.1
-Stable tag: 1.1.3
+Tested up to: 3.6
+Stable tag: 1.1.4
 License: GPLv2 or later
 
 An easy to use Testimonial Plugin for WordPress.
@@ -45,13 +45,24 @@ Upload the plugin to the plugins directory via WordPress Plugin Uploader (Plugin
 == Changelog ==
 
 =1.1.0=
+
 * First release
+
 =1.1.1=
+
 * Fixed some minor bugs
+
 =1.1.2=
+
 * testimonial is now displayed correctly on mouseover
+
 =1.1.3=
+
 * plugin is now compatible with WordPress 3.5.1
+
+=1.1.4=
+
+* plugin is now compatible with WordPress 3.6
 
 == Frequently Asked Questions ==
 

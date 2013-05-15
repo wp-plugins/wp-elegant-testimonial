@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: WP Elegant Testimonial
-Version: 1.1.3
+Version: 1.1.4
 Plugin URI: http://wphowto.net/?p=295
 Author: wpreviewproduct
 Author URI: http://wphowto.net/
 Description: A simple WordPress plugin to add testimonials to a WordPress post or page.
 */
 define('WP_ELEGANT_TESTIMONIAL_URL', plugins_url('',__FILE__));
-define('WP_ELEGANT_TESTIMONIAL_VERSION', "1.1.3");
+define('WP_ELEGANT_TESTIMONIAL_VERSION', "1.1.4");
 include_once('wp-elegant-testimonial-menu.php');
 add_action('wp_enqueue_scripts', 'wp_elegant_testimonial_enqueue_scripts');
 add_action( 'admin_menu', 'wp_elegant_testimonial_plugin_menu' );
