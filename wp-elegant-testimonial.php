@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP Elegant Testimonial
-Version: 1.1.4
+Version: 1.1.5
 Plugin URI: http://wphowto.net/?p=295
-Author: wpreviewproduct
+Author: naa986
 Author URI: http://wphowto.net/
 Description: A simple WordPress plugin to add testimonials to a WordPress post or page.
 */
@@ -52,11 +52,10 @@ function wp_elegant_testimonial_enqueue_scripts()
 	if (!is_admin()) 
     {
     	wp_enqueue_script('jquery');
-    	wp_register_script('jquery-tools', 'http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js');
+    	wp_register_script('jquery-tools', WP_ELEGANT_TESTIMONIAL_URL.'/lib/jquery.tools.min.js');
 	    wp_enqueue_script('jquery-tools');
     	wp_register_style('wp-elegant-testimonial-style', WP_ELEGANT_TESTIMONIAL_URL.'/wp-elegant-testimonial.css');
         wp_enqueue_style('wp-elegant-testimonial-style');	
     }	
 }
 
-?>
